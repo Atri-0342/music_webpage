@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset 
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 🌐 Main Pages -->
+  <url>
+    <loc>http://localhost/pinaki/index.php</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/trending.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/search.php</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/playlists.php</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/profile.php</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/registration.php</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/login.php</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/logout.php</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/feedback.php</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/add_to_playlist.php</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/create_playlist.php</loc>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/increment_play.php</loc>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- 👤 Admin System -->
+  <url>
+    <loc>http://localhost/pinaki/admin_login.php</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/admin.php</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost/pinaki/logout_admin.php</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- 🧩 Admin Management Sections -->
+  <!-- Artists -->
+  <url><loc>http://localhost/pinaki/admin/manage_artists/artists.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_artists/add_artist.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_artists/edit_artist.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_artists/remove_artist.php</loc></url>
+
+  <!-- Categories -->
+  <url><loc>http://localhost/pinaki/admin/manage_categories/categories.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_categories/add_category.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_categories/edit_category.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_categories/remove_category.php</loc></url>
+
+  <!-- Genres -->
+  <url><loc>http://localhost/pinaki/admin/manage_genres/genres.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_genres/add_genre.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_genres/edit_genre.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_genres/remove_genre.php</loc></url>
+
+  <!-- Songs -->
+  <url><loc>http://localhost/pinaki/admin/manage_songs/songs.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_songs/add_song.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_songs/edit_song.php</loc></url>
+  <url><loc>http://localhost/pinaki/admin/manage_songs/remove_song.php</loc></url>
+
+  <!-- Users -->
+  <url><loc>http://localhost/pinaki/admin/manage_users/users.php</loc></url>
+
+  <!-- 🧠 Utility / Docs -->
+  <url><loc>http://localhost/pinaki/db.php</loc></url>
+  <url><loc>http://localhost/pinaki/database.md</loc></url>
+  <url><loc>http://localhost/pinaki/Project Log.pdf</loc></url>
+
+</urlset>
